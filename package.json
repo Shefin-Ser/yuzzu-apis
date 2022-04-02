@@ -1,14 +1,14 @@
 {
-  "name": "yuzzu-api",
+  "name": "shefin-api",
   "version": "1.0.0",
-  "description": "yuzzu-apis",
+  "description": "shefin-apis",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuzzuKamiyaka/yuzzu-apis.git"
+    "url": "git+https://github.com/Shefin-Ser/shefin-api.git"
   },
   "keywords": [
     "ANAKNGEN"
@@ -16,9 +16,9 @@
   "author": "YuzzuKamiyaka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YuzzuKamiyaka/yuzzu-apis/issues"
+    "url": "https://github.com/Shefin-Ser/shefin-api.git/issues"
   },
-  "homepage": "https://github.com/YuzzuKamiyaka/yuzzu-apis#readme",
+  "homepage": "https://github.com/Shefin-Ser/shefin-api.git#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
