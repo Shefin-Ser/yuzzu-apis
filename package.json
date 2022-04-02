@@ -1,5 +1,5 @@
 {
-  "name": "shefin-api",
+  "name": "shefinkl14-api",
   "version": "1.0.0",
   "description": "shefin-apis",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shefin-Ser/shefin-api.git"
+    "url": "git+https://github.com/Shefin-Ser/shefinkl14-api.git"
   },
   "keywords": [
     "ANAKNGEN"
@@ -16,9 +16,9 @@
   "author": "YuzzuKamiyaka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shefin-Ser/shefin-api.git/issues"
+    "url": "https://github.com/Shefin-Ser/shefinkl14-api.git/issues"
   },
-  "homepage": "https://github.com/Shefin-Ser/shefin-api.git#readme",
+  "homepage": "https://github.com/Shefin-Ser/shefinkl14-api.git#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
